@@ -5,7 +5,7 @@ import javax.swing.JPanel;
 
 public class Fenetre extends JFrame{
   private JPanel pan = new JPanel();
-  private JButton bouton = new JButton("Mon bouton");
+  private JButton bouton = new JButton("Lol TEST");
 
   public Fenetre(){
     this.setTitle("Viewers Adventure v0.01");
